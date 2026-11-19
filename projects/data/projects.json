@@ -1,0 +1,335 @@
+[
+  {
+    "slug": "lodha-aureus",
+    "name": "Lodha Aureus",
+    "tagline": "Luxury residences in Sewri, South Mumbai",
+    "propertyType": "Luxury apartments",
+    "status": "Under-Contruction",
+    "possession": "March 27",
+    "developer": {
+      "name": "Lodha",
+      "description": "Lodha is a Mumbai-based real estate developer. Add verified background, completed projects and credibility details here. Lodha is a Mumbai-based real estate developer. Add verified background, completed projects and credibility details here. Lodha is a Mumbai-based real estate developer. Add verified background, completed projects and credibility details here."
+    },
+    "location": {
+      "locality": "Sewri",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "address": "Sewri, South Mumbai, Maharashtra",
+      "mapEmbedUrl": "https://www.google.com/maps?q=Lodha+Aureus+Sewri+Mumbai&output=embed"
+    },
+    "rera": {
+      "number": "P51900000000",
+      "url": "https://maharera.maharashtra.gov.in"
+    },
+    "heroImage": {
+      "src": "/images/projects/lodha-aureus/banner/desktop_banner1.jpg",
+      "alt": "Modern luxury residential tower at dusk",
+      "width": 2200,
+      "height": 1467
+    },
+    "logo": {
+      "src": "/images/logo/zenvara-logo.png",
+      "alt": "Lodha Aureus logo",
+      "width": 220,
+      "height": 64
+    },
+    "description": [
+      "Lodha Aureus brings premium apartment living to Sewri, on Mumbai's eastern waterfront, within reach of South Mumbai's business districts.",
+      "Located on Zakaria Bunder Road in Sewri, Lodha Aureus is an ultra-luxury residential development overlooking Mumbai's eastern waterfront. Spread across five acres, the project comprises two Art Deco-inspired high-rise towers rising to G+66 floors."
+    ],
+    "highlights": [
+      {
+        "title": "Sewri location",
+        "description": "A South Mumbai address close to the island city's business districts."
+      },
+      {
+        "title": "Lodha development",
+        "description": "Delivered by Lodha, one of Mumbai's best-known developers."
+      },
+      {
+        "title": "Thoughtful planning",
+        "description": "Add confirmed planning and design features here."
+      },
+      {
+        "title": "Everyday convenience",
+        "description": "Add confirmed on-site and neighbourhood conveniences here."
+      }
+    ],
+    "specifications": [
+      {
+        "label": "Location",
+        "value": "Sewri, Mumbai"
+      },
+      {
+        "label": "Developer",
+        "value": "Lodha"
+      },
+      {
+        "label": "Property type",
+        "value": "Luxury apartments"
+      }
+    ],
+    "overviewImage": {
+      "src": "/images/projects/lodha-aureus/overview/overview.jpg",
+      "alt": "Elegant living room with large windows",
+      "width": 1400,
+      "height": 933
+    },
+    "gallery": [
+      {
+        "category": "Exterior",
+        "src": "/images/projects/lodha-aureus/gallery/gallery-1.jpg",
+        "alt": "Tower facade with glass balconies",
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "category": "Exterior",
+        "src": "/images/projects/lodha-aureus/gallery/gallery-2.jpg",
+        "alt": "Contemporary residence exterior",
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "category": "Interiors",
+        "src": "/images/projects/lodha-aureus/gallery/gallery-3.jpg",
+        "alt": "Spacious living and dining area",
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "category": "Exterior",
+        "src": "/images/projects/lodha-aureus/gallery/gallery-4.jpg",
+        "alt": "Modern home with landscaped frontage",
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "category": "Interiors",
+        "src": "/images/projects/lodha-aureus/gallery/gallery-5.jpg",
+        "alt": "Bright master bedroom",
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "category": "Lifestyle",
+        "src": "/images/projects/lodha-aureus/gallery/gallery-6.jpg",
+        "alt": "Residence with pool and terrace",
+        "width": 1500,
+        "height": 1000
+      }
+    ],
+    "videos": [
+      {
+        "type": "youtube",
+        "src": "ZlKi3z64C2M",
+        "title": "Lodha Aureus - Project Overview",
+        "poster": {
+          "src": "/images/projects/lodha-aureus/banner/desktop_banner1.jpg",
+          "alt": "Lodha Aureus luxury residential tower",
+          "width": 1200,
+          "height": 675
+        },
+        "uploadDate": "2026-10-21"
+      },
+      {
+        "type": "youtube",
+        "src": "i3y36DROdMM",
+        "title": "Lodha Aureus - Project Walkthrough",
+        "poster": {
+          "src": "/images/projects/lodha-aureus/gallery/gallery-2.jpg",
+          "alt": "Lodha Aureus project walkthrough preview",
+          "width": 1200,
+          "height": 675
+        }
+      }
+    ],
+    "configurations": [
+      {
+        "name": "2 BHK",
+        "carpetArea": "",
+        "price": ""
+      },
+      {
+        "name": "3 BHK",
+        "carpetArea": "",
+        "price": ""
+      },
+      {
+        "name": "4 BHK",
+        "carpetArea": "",
+        "price": ""
+      }
+    ],
+    "pricingDisclaimer": "Prices and areas are indicative and subject to change without notice. Please contact the sales team for current details.",
+    "amenities": [
+      {
+        "name": "Swimming pool",
+        "description": "Lorem ipsum dolor sit amet.",
+        "icon": "pool",
+        "isFeatured": true,
+        "image": {
+          "src": "https://images.unsplash.com/photo-1530549387789-4c1017266635?auto=format&fit=crop&w=1200&q=75",
+          "alt": "Residential swimming pool",
+          "width": 1200,
+          "height": 800
+        }
+      },
+      {
+        "name": "Landscaped garden",
+        "description": "Lorem ipsum dolor sit amet.",
+        "icon": "garden",
+        "isFeatured": true,
+        "image": {
+          "src": "https://images.unsplash.com/photo-1558904541-efa843a96f01?auto=format&fit=crop&w=1200&q=75",
+          "alt": "Landscaped garden",
+          "width": 1200,
+          "height": 800
+        }
+      },
+      {
+        "name": "Gymnasium",
+        "description": "Lorem ipsum dolor sit amet.",
+        "icon": "gym",
+        "isFeatured": false
+      },
+      {
+        "name": "Covered parking",
+        "description": "Lorem ipsum dolor sit amet.",
+        "icon": "parking",
+        "isFeatured": false
+      },
+      {
+        "name": "Power backup",
+        "description": "Lorem ipsum dolor sit amet.",
+        "icon": "power",
+        "isFeatured": false
+      },
+      {
+        "name": "24x7 security",
+        "description": "Lorem ipsum dolor sit amet.",
+        "icon": "security",
+        "isFeatured": false
+      }
+    ],
+    "nearby": [
+      {
+        "name": "Sewri railway station",
+        "category": "Rail"
+      },
+      {
+        "name": "Atal Setu (MTHL)",
+        "category": "Highway"
+      },
+      {
+        "name": "Chhatrapati Shivaji Maharaj International Airport",
+        "category": "Airport"
+      }
+    ],
+    "contact": {
+      "phone": "+9100000 00000",
+      "email": "info@zenvara.in",
+      "whatsapp": "+9100000 00000"
+    },
+    "faqs": [
+      {
+        "question": "Where is Lodha Aureus located?",
+        "answer": "Lodha Aureus is in Sewri, South Mumbai, Maharashtra. Confirm the full address with the sales team."
+      },
+      {
+        "question": "What configurations are available?",
+        "answer": "Sample answer. Replace with the confirmed configurations and carpet areas."
+      },
+      {
+        "question": "What is the price of an apartment?",
+        "answer": "Pricing is shared by the sales team and changes with floor, view and availability. Use the enquiry form to request current prices."
+      },
+      {
+        "question": "When is possession?",
+        "answer": "Sample answer. Replace with the possession date from the RERA registration."
+      },
+      {
+        "question": "How can I book a site visit?",
+        "answer": "Submit the enquiry form and the sales team will contact you to arrange a visit."
+      }
+    ],
+    "seo": {
+      "title": "Lodha Aureus Sewri | Luxury Apartments in South Mumbai",
+      "description": "Explore Lodha Aureus, luxury apartments in Sewri, South Mumbai. View configurations, amenities, location and enquire for current prices.",
+      "socialImage": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=75"
+    },
+    "legalDisclaimer": "This website is for information only and does not constitute an offer. Images are artistic impressions. Details are subject to change and approval by the relevant authorities.",
+    "projectArea": "5 acres",
+    "possessionYear": "2032",
+    "stats": [
+      {
+        "value": "2",
+        "label": "Towers"
+      },
+      {
+        "value": "66",
+        "label": "Floors (G+66)"
+      },
+      {
+        "value": "354",
+        "label": "Residences"
+      },
+      {
+        "value": "25",
+        "label": "+ Amenities"
+      },
+      {
+        "value": "5",
+        "label": "Acres land parcel"
+      },
+      {
+        "value": "2032",
+        "label": "Possession year"
+      }
+    ],
+    "trustBadges": [
+      "RERA registered",
+      "Bank approved project",
+      "1 km from Sewri station",
+      "Prime South Mumbai address"
+    ],
+    "similarProjects": [
+      {
+        "name": "Project Name 1",
+        "location": "South Mumbai",
+        "type": "2, 3 & 4 BHK Residences",
+        "image": {
+          "category": "Exterior",
+          "src": "/images/projects/lodha-aureus/gallery/gallery-1.jpg",
+          "alt": "Tower facade with glass balconies",
+          "width": 1500,
+          "height": 1000
+        }
+      },
+      {
+        "name": "Project Name 2",
+        "location": "Central Mumbai",
+        "type": "3 & 4 BHK Residences",
+        "image": {
+          "category": "Exterior",
+          "src": "/images/projects/lodha-aureus/gallery/gallery-2.jpg",
+          "alt": "Contemporary residence exterior",
+          "width": 1500,
+          "height": 1000
+        }
+      },
+      {
+        "name": "Project Name 3",
+        "location": "Mumbai Metropolitan Region",
+        "type": "2 & 3 BHK Residences",
+        "image": {
+          "category": "Interiors",
+          "src": "/images/projects/lodha-aureus/gallery/gallery-3.jpg",
+          "alt": "Spacious living and dining area",
+          "width": 1500,
+          "height": 1000
+        }
+      }
+    ]
+  }
+]
