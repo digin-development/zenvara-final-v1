@@ -12,9 +12,9 @@ export const site = {
   logoOnLight: "/images/logo/zenvara-logo.png", // used on light backgrounds (scrolled header)
 
   // TODO: add real details. Empty values are hidden automatically.
-  email: "info@zenvara.in",
-  phone: "+91 00000 00000",
-  address: "Navi Mumbai, Maharashtra",
+  email: "info@zenvara.co.in",
+  phone: "+91 99209 31788",
+  address: "Zenvara Ventures Pvt. Ltd. B 205, Kukreja Centre, Sector 1, CBD Belapur, Navi Mumbai",
   reraAgentNumber: "", // MahaRERA agent registration number
 };
 
