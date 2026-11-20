@@ -19,7 +19,7 @@ export default function Footer() {
           <div>
             <Link href="/" aria-label={`${site.name}, home`}>
               {/* <Wordmark light /> */}
-               <Logo />
+              <Logo />
             </Link>
             <p className="mt-6 max-w-xs text-ivory/80">
               Clear, honest guidance for buying property in Navi Mumbai.
@@ -57,30 +57,50 @@ export default function Footer() {
             <ul className="mt-4 space-y-3 text-sm">
               {site.email && (
                 <li className="flex items-center gap-3">
-                  <FiMail aria-hidden className="text-gold" /> <a href={`mailto:${site.email}`}>{site.email}</a>
+                  <FiMail aria-hidden className="text-gold" />{" "}
+                  <a href={`mailto:${site.email}`}>{site.email}</a>
                 </li>
               )}
               {site.phone && (
                 <li className="flex items-center gap-3">
-                  <FiPhone aria-hidden className="text-gold" /> <a href={`tel:${site.phone}`}>{site.phone}</a>
+                  <FiPhone aria-hidden className="text-gold" />{" "}
+                  <a href={`tel:${site.phone}`}>{site.phone}</a>
                 </li>
               )}
               <li className="flex items-center gap-3">
                 <FiMapPin aria-hidden className="text-gold" /> {site.address}
               </li>
-              {site.reraAgentNumber && <li>MahaRERA Agent No: {site.reraAgentNumber}</li>}
+              {site.reraAgentNumber && (
+                <li>MahaRERA Agent No: {site.reraAgentNumber}</li>
+              )}
             </ul>
           </div>
         </div>
 
         <p className="mt-16 border-t border-ivory/15 pt-6 text-xs leading-relaxed text-ivory/70">
-          Prices, interest rates and charges on this website are indicative and can change. They are
-          for general guidance only and are not legal, tax or financial advice. Please verify with
-          the lender, MahaRERA and the sub-registrar before you decide.
+          Prices, interest rates and charges on this website are indicative and
+          can change. They are for general guidance only and are not legal, tax
+          or financial advice. Please verify with the lender, MahaRERA and the
+          sub-registrar before you decide.
         </p>
-        <p className="mt-4 text-xs text-ivory/70">
-          &copy; {new Date().getFullYear()} {site.name}. All rights reserved.
-        </p>
+
+        <div className="mt-4 flex flex-col sm:flex-row items-center justify-between gap-2">
+          <p className="text-xs text-ivory/70">
+            &copy; {new Date().getFullYear()} {site.name}. All rights reserved.
+          </p>
+
+          <p className="text-xs text-ivory/70">
+            Designed & Developed by{" "}
+            <a
+              href="https://letsdigin.in/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-ivory hover:text-white transition-colors duration-300"
+            >
+              DigIN Media
+            </a>
+          </p>
+        </div>
       </Container>
     </footer>
   );
